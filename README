@@ -1,0 +1,8 @@
+nWrap v.1
+
+Nagios passive alerts, wrapped around any shell script
+
+###
+## usage: nwrap.sh "my command with parms" [logfile] [nagioshost] [service]
+## i.e. nwrap.sh "echo nwrap test" /tmp/ls.log nsx test
+
